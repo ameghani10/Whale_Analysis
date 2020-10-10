@@ -10,7 +10,7 @@ Oct 10, 2020
 
 ## Overview
 
-Whales are one of the biggest mammals on Earth. They evolved from land mammals... This is the wrong "whale". This analysis focuses on the "financial whales". In finance a "whale" is a market manipulator. That is to say that they are so big (in terms of assets) that they can affect the price of stock by buying large amounts to make it increase in value or sell large amounts to make it decrease in value. This analysis will focus on the returns and risk compared to the index S&P 500. This analysis will also introduce 2 algorithms and a custom portfolio into the mix for comparative analysis.
+Whales are one of the biggest mammals on Earth. They evolved from land mammals... Wait...! This is the wrong "whale". This analysis focuses on the "financial whales". In finance a "whale" is a market manipulator. That is to say that they are so big (in terms of assets) that they can affect the price of stock by buying large amounts to make it increase in value or sell large amounts to make it decrease in value. This analysis will focus on the returns and risk compared to the index S&P 500. This analysis will also introduce 2 algorithms and a custom portfolio into the mix for comparative analysis.
 
 ### Whales compared
 
@@ -81,4 +81,12 @@ Sharpe Ratio
 ---
 
 What is learned from this analysis?
+
+Looking through the analysis of the portfolios it is easy to see which ones are better than the benchmark given the level of risk for the time between 5/2018 and 5/2019. Just looking at the returns data, the following returned (cumulative) more than the S&P 500:
+- Custom
+- Algo 1
+
+All others failed to beat the benchmark!
+
+When taken into consideration the sharpe ratio both of them return more than the benchmark given the level of risk with Algo 1 edging out the Custom portfolio.
 
