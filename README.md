@@ -74,7 +74,7 @@ Sharpe Ratio
 
 ![Sharpe_Custom](Images/sharpe_custom.png)
 
-![Happy_Whale](Images/happy_whale.png)
+![Happy_Whale](Images/happy_whale.png)[^3]
 
 ## Results
 
@@ -83,6 +83,7 @@ Sharpe Ratio
 What is learned from this analysis?
 
 Looking through the analysis of the portfolios it is easy to see which ones are better than the benchmark given the level of risk for the time between 5/2018 and 5/2019. Just looking at the returns data, the following returned (cumulative) more than the S&P 500:
+
 - Custom
 - Algo 1
 
@@ -90,3 +91,11 @@ All others failed to beat the benchmark!
 
 When taken into consideration the sharpe ratio both of them return more than the benchmark given the level of risk with Algo 1 edging out the Custom portfolio.
 
+## Sources
+
+1 Whale - https://shinobi-stickers.com/products/simple-cute-mint-green-whale-cartoon-drawing
+
+2 Whale2 - https://www.how-to-draw-funny-cartoons.com/cartoon-whale.html
+
+
+3 Happy_Whale - https://pixabay.com/illustrations/fish-whale-aquatic-creatures-beach-5523235/
